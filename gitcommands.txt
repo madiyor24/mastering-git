@@ -1,0 +1,51 @@
+
+*git config --global user.name
+madiyor24
+
+*git config --global user.email
+tadjibaev.madiyor@ssd.uz
+
+*git config -l
+shows all configured values by user
+
+*git init .
+initialazing working directory
+
+*git status
+
+ADDS TO STAGING AREA
+*get add .
+
+REVERS FROM STAGING AREA
+*get rm -r --cached .
+
+TO SEE DIFF BTW WORKING DIRECORY AND WHAT HAS BEEN COMMITED
+*git diff
+
+SEE COMMITED LOGS
+*git log
+
+CORRECT COMMITED MESSAGE
+*git commit --amend -m "you new message"
+
+BRANCH NAME
+*git branch
+
+COMMIT A NEW MESSAGE
+*git commit -m "you new message"
+
+
+PUSH A FILE
+*git push
+
+============================
+GITHUB
+==============================
+email:
+tadjibaev.madiyor@ssd.uz
+user name:
+madiyor24
+password:
+madiyor9124
+ACCESS TOCKEN
+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

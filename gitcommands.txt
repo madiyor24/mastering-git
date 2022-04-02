@@ -17,7 +17,7 @@ ADDS TO STAGING AREA
 *get add .
 
 REVERS FROM STAGING AREA
-*get rm -r --cached .
+*git rm -r --cached .
 
 TO SEE DIFF BTW WORKING DIRECORY AND WHAT HAS BEEN COMMITED
 *git diff
@@ -40,6 +40,22 @@ PUSH A FILE
 
 PULL A FILE, UPDATES etc
 *git pull
+
+TO SEE BRANCHES OF REMOTE HOST
+*git branch -r
+
+TO SEE ALL BRANCHES 
+*git branch -a
+
+CREATING A NEW BRANCH
+*git branch feature-a
+
+SWITCH TO ANOTHER BRANCH
+*git checkout feature-a
+
+SWITCHING BACK TO THE PREVIOUS BRANCH
+*git checkout -
+
 ============================
 GITHUB
 ==============================

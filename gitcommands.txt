@@ -38,6 +38,8 @@ COMMIT A NEW MESSAGE
 PUSH A FILE
 *git push
 
+PULL A FILE, UPDATES etc
+*git pull
 ============================
 GITHUB
 ==============================

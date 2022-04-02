@@ -47,14 +47,24 @@ TO SEE BRANCHES OF REMOTE HOST
 TO SEE ALL BRANCHES 
 *git branch -a
 
-CREATING A NEW BRANCH
+CREATING A NEW BRANCH IN LOCAL GIT
 *git branch feature-a
 
 SWITCH TO ANOTHER BRANCH
 *git checkout feature-a
 
+CREATING AND SWITCHING TO A NEW BRANCH
+*git checkout -b anewbrnch
+
 SWITCHING BACK TO THE PREVIOUS BRANCH
 *git checkout -
+
+CREATING A NEW BRANCH IN HOST
+*git push -u origin feature-a
+
+DELETE THE BRANCH
+*git branch -d branch-name
+
 
 ============================
 GITHUB

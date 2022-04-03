@@ -66,6 +66,11 @@ DELETE THE BRANCH
 *git branch -d branch-name
 
 
+GENERAL WORKFLAW
+1.Pull the general changes from master
+2.Create a new branch
+3.Rebase from master to your local repository
+
 ============================
 GITHUB
 ==============================

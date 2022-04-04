@@ -71,6 +71,13 @@ GENERAL WORKFLAW
 2.Create a new branch
 3.Rebase from master to your local repository
 
+WHILE DOING PUSH IF YOU FACE A WORNING!
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/madiyor24/mastering-git.git/'
+ANSWER
+git remote set-url origin git@github.com:madiyor24/mastering-git.git
+
 ============================
 GITHUB
 ==============================

@@ -78,6 +78,12 @@ fatal: Authentication failed for 'https://github.com/madiyor24/mastering-git.git
 ANSWER
 git remote set-url origin git@github.com:madiyor24/mastering-git.git
 
+
+
+fatal: refusing to merge unrelated histories
+git pull git@github.com:madiyor24/ms-sample-project.git main --allow-unrelated-histories
+
+
 ============================
 GITHUB
 ==============================
